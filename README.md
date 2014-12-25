@@ -7,7 +7,7 @@ LovePG is a Love2d library source aimed at cleaning up some of the library names
 - [HUMP](https://github.com/vrld/hump)
 - [HardonCollider](https://github.com/vrld/HardonCollider)
 - [Pölygamy](http://www.love2d.org/wiki/P%C3%B6lygamy)
-- [AnAL](http://www.love2d.org/wiki/AnAL)
+- [AnAL](http://www.love2d.org/wiki/AnAL) - May be replaced with anim8 for functionality
 
 ###TODO
 
