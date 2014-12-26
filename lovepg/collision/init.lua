@@ -302,10 +302,10 @@ function HC:setSolid(shape, ...)
 end
 
 -- the module
-HC = common_local.class("HardonCollider", HC)
+HC = common_local.class("collision", HC)
 local function new(...)
 	return common_local.instance(HC, ...)
 end
 
-return setmetatable({HardonCollider = HC, new = new},
+return setmetatable({collision = HC, new = new},
 	{__call = function(_,...) return new(...) end})
