@@ -10,6 +10,7 @@ LovePG is a Love2d library source aimed at cleaning up some of the library names
 - Gamestates
 - Networking
 - Camera Controls
+- Object Collision
 
 ###TODO
 
