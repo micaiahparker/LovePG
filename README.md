@@ -2,6 +2,15 @@
 
 LovePG is a Love2d library source aimed at cleaning up some of the library names to be more welcoming. Feel free to contact me at [micaiahparker@gmail.com](mailto:micaiahparker@gmail.com) with any libraries you think should be added or send a push request.
 
+###Modules
+
+- Animations
+- Vectors
+- Classes
+- Gamestates
+- Networking
+- Camera Controls
+- Object Collision
 
 ###TODO
 
