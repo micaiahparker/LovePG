@@ -11,6 +11,6 @@ LovePG is a Love2d library source aimed at cleaning up some of the library names
 
 ###TODO
 
-- Everything
-- Add to list of libraries
-- Make a generic list of library names to replace with
+- Finish [#8](https://github.com/spidyfan21/LovePG/issues/8)
+- Fill out contrib.txt
+- Start wiki/docs
