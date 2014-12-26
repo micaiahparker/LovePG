@@ -6,7 +6,7 @@
 - `camera.lua`
 - `vector.lua`
 - `gamestate.lua`
-- `collider`
+- `collision`
 
 ####Bart van Strien (aka [bartbes](https://github.com/bartbes))
 
